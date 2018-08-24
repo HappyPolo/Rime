@@ -4,7 +4,7 @@ __build_info:
     cangjie5.custom: 0
     cangjie5.schema: 1524739780
     default: 1524739784
-    default.custom: 1533457436
+    default.custom: 1535117089
     symbols: 1524739784
     symbols.custom: 0
 abc_segmentor:
@@ -71,7 +71,7 @@ key_binder:
     - {accept: "Control+period", toggle: ascii_punct, when: always}
   import_preset: default
 menu:
-  page_size: 9
+  page_size: 6
 punctuator:
   full_shape:
     " ": {commit: "　"}

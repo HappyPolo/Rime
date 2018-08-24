@@ -4,7 +4,7 @@ __build_info:
     bopomofo.custom: 0
     bopomofo.schema: 1524739780
     default: 1524739784
-    default.custom: 1533457436
+    default.custom: 1535117089
 custom_phrase:
   db_class: stabledb
   dictionary: ""
@@ -82,7 +82,7 @@ key_binder:
   import_preset: default
 menu:
   alternative_select_keys: ABCDEFGHIJ
-  page_size: 9
+  page_size: 6
 punctuator:
   full_shape:
     " ": {commit: "　"}

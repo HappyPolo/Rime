@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.3.0
   timestamps:
     default: 1524739784
-    default.custom: 1533457436
+    default.custom: 1535117089
     double_pinyin_flypy.custom: 1533457219
     double_pinyin_flypy.schema: 1523065740
     mysymbols: 1533457236
@@ -67,7 +67,7 @@ key_binder:
     - {accept: "Control+period", toggle: ascii_punct, when: always}
   import_preset: default
 menu:
-  page_size: 9
+  page_size: 6
 punctuator:
   full_shape:
     " ": {commit: " "}
