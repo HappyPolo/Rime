@@ -1,5 +1,5 @@
-2018/08/24-21:31:33.572 2b40 Recovering log #153
-2018/08/24-21:31:33.572 2b40 Level-0 table #155: started
-2018/08/24-21:31:33.588 2b40 Level-0 table #155: 1006 bytes OK
-2018/08/24-21:31:33.599 2b40 Delete type=0 #153
-2018/08/24-21:31:33.599 2b40 Delete type=3 #151
+2018/08/26-19:37:32.333 41dc Recovering log #166
+2018/08/26-19:37:32.334 41dc Level-0 table #168: started
+2018/08/26-19:37:32.341 41dc Level-0 table #168: 1769 bytes OK
+2018/08/26-19:37:32.347 41dc Delete type=0 #166
+2018/08/26-19:37:32.347 41dc Delete type=3 #164
