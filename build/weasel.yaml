@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.3.0
   timestamps:
     weasel: 1524739730
-    weasel.custom: 1533458486
+    weasel.custom: 1536241490
 app_options:
   cmd.exe:
     ascii_mode: true
@@ -498,7 +498,7 @@ preset_color_schemes:
     name: YouTube
     text_color: 0x000000
 style:
-  color_scheme: nov
+  color_scheme: ink
   display_tray_icon: true
   font_face: "Microsoft YaHei Mono"
   font_point: 24

@@ -1,26 +1,31 @@
-﻿patch:
-  "style/display_tray_icon": true
-#  "style/horizontal": true
-  "style/font_face": "Microsoft YaHei Mono"
-  "style/font_point": 24
-  app_options/photoshop.exe:
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.11.1
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Thu Sep  6 21:44:50 2018"
+  rime_version: 1.3.0
+patch:
+  "app_options/devenv.exe":
     ascii_mode: true
-  app_options/illustrator.exe:
+  "app_options/illustrator.exe":
     ascii_mode: true
-  app_options/devenv.exe:
+  "app_options/photoshop.exe":
     ascii_mode: true
-  app_options/winkawaks.exe:
+  "app_options/plantsvszombies":
     ascii_mode: true
-  app_options/plantsvszombies:
+  "app_options/winkawaks.exe":
     ascii_mode: true
-  "style/color_scheme": nov
   "preset_color_schemes/nov":
     back_color: 0x333333
     border_color: 0x333333
-    text_color: 0xdaaa43
-    hilited_text_color: 0xdaaa43
-    hilited_back_color: 0x333333
-    hilited_candidate_text_color: 0xbbbbbb
-    hilited_candidate_back_color: 0x333333
     candidate_text_color: 0xffffff
     comment_text_color: 0x333333
+    hilited_back_color: 0x333333
+    hilited_candidate_back_color: 0x333333
+    hilited_candidate_text_color: 0xbbbbbb
+    hilited_text_color: 0xdaaa43
+    text_color: 0xdaaa43
+  "style/color_scheme": ink
+  "style/display_tray_icon": true
+  "style/font_face": "Microsoft YaHei Mono"
+  "style/font_point": 24
